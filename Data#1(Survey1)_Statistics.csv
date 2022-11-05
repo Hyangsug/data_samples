@@ -1,0 +1,43 @@
+No,Gender,Hair Color,No. of Books in Backpack,Age,Daily Hours of Sleep,Height (ft),Transportation to school,GPA,Credit Units this Term,Daily Amount of Studying (Hrs),Shoe Size,No. of Siblings,Pets?,Kind,Letters in Last Name,Favorite Ice Cream,Favorite Color,Like Mathematics?,No. of Previous Mathematics Courses Since Highschool,No. of Best Friends,Daily Cell Phone Usage (Hrs),Daily TV Usage (Hrs),Daily Game Play (Hrs),No. of Times Singing Daily,Daily Exercise (Hrs),No. of Times Drinking Coffee/Tea Daily,No. of Books Read During Summer,No. of Instruments Played,Do You Like Your Group So Far?
+1,F,Black,1,25,8,"5'2""",Car,3.9,11,4-Feb,5,1,0,,9,Chocolate Chip,Black,Y,5,5,8,2,N/A,3,1,3,2,0,Y
+2,M,Black,2,19,4,"5'6""",Car,-,13,-,9.5,2,1,Dogs,8,Vanilla,-,-,1,-,4,1,1,-,2,1,0,1,Y
+3,F,Brown,0,18,10,"5'4""",Car,3.4,12,0,4.5,2,3,Dogs,9,Vanilla,Black,Neutral,0,1,2,0,0,Alot,0,0,0,0,Y
+4,F,Black,0,18,6,"5'0""",Car,3.2,14,2,6.5,1,1,Dogs,8,Oreo,Red,Neutral,1,3,Alot,0,0,10-May,2,0-1,0,2,Y
+5,M,Black/Brown,0,16,8,"5'4""",Bus/Car,-,12+,0-2,9,2,1,Dogs,5,None,Black,Y,0,2,3-Feb,0,0,10+,2-Jan,0,5+,2,Y
+6,F,Brown,0,25,6.5,"5'5""",Car,2,12,6,8.5,1,1,Dogs,5,Cookies and Cream,Black,Neutral,1,1,8+,0,0,8,2,-,0,0,Y
+7,M ,Brown,2,18,7,"5'10""",Car,2.9,11,3-Feb,10,1,2,Dogs,6,Mint Chip,Blue,Neutral,0,1,7-Jun,4,0,20,2,0,0,0,Y
+8,M,Black,1,18,8,"5'10""",-,3.3,8,-,8,2,0,-,7,Vanilla,Blue,Neutral,4,5,6,3,0,2,2,0,1,0,Y
+9,M,Black,1,17,6,"5'8""",Car,3.6,14,4-Jan,9,2,0,,5,Vanilla,Blue,Neutral,0,5,5,3,1,0,2-Jan,0,0,0,Y
+10,F,Black,2,27,8,5.8,Car,-,12,2,7.5,4,1,Dogs,10,Vanilla,Purple,Neutral,3,2,4,2,0,0,1,1,0.5,0,Y
+11,M,Black,1,19,6,"5'11""",Car,-,-,-,10,1,0,-,7,Strawberry,Blue,Y,6,-,Alot,0,0,0,-,0,0,2,Y
+12,F,Brown,1,18,5,"5'2""",Lyft,2.4,16,3,7,3,2,Cats,6,Chocolate,Purple,Y,4,1,4,2,0,1,1,1,2,0,Y
+13,M,Brown,1,18,8,"5'2""",Car,3.2,14,4,7,3,1,Dogs,8,Vanilla,Blue,Neutral,0,3,7,0,2,10<,0,0,0,0,Y
+14,M,Black,0,30,8,"5'11""",Car/Motorcycle,2.9,13,2,9.5,2,1,Dogs,5,Strawberry,Black,Y,6,2,8,1,0,0,1,1,0,0,Y
+15,M,Black,2,37,8-Jul,"5'11""",Car,2.3,7,2,11,6,0,-,8,Vanilla,Black,Neutral,1,3,Alot,2,0,-,1,0,2,0,Y
+16,F,Black,2,18,7,"5'3""",Car,-,12,1,7,1,0,-,8,Vanilla,Red,N,4,2,2,0,0,Alot,1,1,1,0,Y
+17,F,Black,1,32,8,"5'6""",Car,3.2,2,4-Mar,8.5,2,0,,4,Chocolate,White,Y,2,3,3-Feb,0.5,N/A,1,0.5,2,1,0,Neutral
+18,M,Brown,2,18,8,"5'6""",Walk,-,4,-,8,2,1,Turtle,5,Strawberry,Red,Y,5,2,6,1,2,2,1,0,0,0,Y
+19,M,Black,0,18,10-Jul,"6'2""",Bike,2.5,12,2,12,1,1,Dogs,3,Cookie Dough,Purple,Neutral,0,1,-,0,1,0,1,0,0,0,Y
+20,M,Brown,0,17,6,"6'0""",Bus,4,12,1.5,12,1,2,Cats,7,Coffee,Green,No,0,6,5,0,6,2,1,0,0,2,Y
+21,F,Brown,0,27,6,"5'1""",Car,3,-,-,-,-,-,-,-,-,Black,Y,6,1,3,1,0,0,0.5,3,1,1,Y
+22,M,Black,0,18,7-Jun,"5'8""",Car,3.6,15,3-Feb,10.5,3,0,,5,Chocolate,Blue,Neutral,4,3,6,0,3-Feb,2-Jan,3-Feb,0,0,3,Y
+23,F,Black,1,17,8,"5'3""",Car,3.7,14,1,5-5.5,1,0,-,7,Cookies and Cream,Orange,N,3,2,6,0,0,20,0,1,0,0,Neutral
+24,M,Brown,3,20,7-Jun,"5'8""",Car,2.6,18,N/A,10.5,4,2,Dog/Cat,9,Chocolate,Black,Neutral,5,0,N/A,3-Feb,0,,2,1,0,0,Neutral
+25,M,Brown,0,21,7,"5'8""",Car,3,13,1,10,3,3,Dogs,9,Chocolate,Orange,Neutral,2,4,3-Feb,0,0,0,1.5,0,0.25,1,Y
+26,M,Brown,1,18,8-Jun,"6'3""",Car/Bus,2.8,11,2,12,1,4,Dogs/Cats,11,Caramel,Black,Y,4,2,4-Mar,0,2-Jan,5,0,0,0,0,Y
+27,F,Brown,2,17,7,"4'11""",Bus/Lyft,3.8,4,2.3,6.5,7,3,Dog/Cat/Fish,7,Vanilla,Pink,No,3,5,6-Mar,.5-1,0,Alot,2,1,0,0,Neutral
+28,M,Black,2,17,8-Jul,"5'11""",Walk,3.5,12.5,1,9,1,0,-,5,Vanilla,Yellow,Y,0,7,3,1,2,,1,0,1,0,Y
+29,F,Gray,1,18,8-Jul,-,Car,-,14,-,7.5,3,0,,8,Vanilla,Black,Neutral,3,-,3,.5-1,0,4,0,1,-,-,-
+30,M,Black,0,19,8,"5'10""",Car,,12,1,10,3,0,0,5,Vanilla,Green,N,0,2,0,2,5,0,1,0,0,0,Y
+31,F,Brown,1,19,8,"5'2""",Car,,13,2,55,2,3,Fish,6,Banana,Grey,N,1,1,3+,3+,1+,4+,0.5,2,0.5,0,Y
+32,F,Brown,1,18,7-Jun,"5'2""",Car,3.2,13.5,-,8,2,0,-,16,Lemon Cookie,Green,Neutral,3,2,2.5,0,0,0.3,5,2-Jan,2,0,Y
+33,F,Brown,1,17,8,"4'10""",Car,,12,1,3,1,0,,2,Cookies and Cream,-,No,0,?,2,0,0,36,1,0,0,0,Y
+34,M,Brown,0,19,9-Aug,"6'0""",Car,,14,2,12,1,2,1,5,Rocky Road,Red,No,1,7,18,2-Jan,2-Jan,2-Jan,5-Apr,0,0,0,Y
+35,F,Brown,3,20,6,"5'1""",Bus,3,12,2,6,3,1,Cat,6,Vanilla,Turquoise,Neutral,3,1,?,1,N/A,?,2,0.5,2,1,Y
+36,F,Black,0,19,6,-,-,-,12,-,5.5,-,1,Turtle,13,Vanilla,Blue,Neutral,-,2,2-Jan,2-Jan,-,-,1,-,3,0,Y
+37,F,Brown,0,17,6,"5'3""",Car,3.6,11,-,4,7,0,0,8,Cookies and Cream,Pink,N,3,2,2.5,0,0,0,2.5,0,1,0,Y
+38,F,Brown,0,18,7,"5'2""",Car,3.3,12,1,6,2,0,-,6,Cookies and Cream,Blue,Neutral,4,2,5,2,0,Alot,0,0,0,2,Y
+39,F,Brown,0,26,8,"5'0""",Car,4,12,4,7.5,6,0,,5,Vanilla,Blue,Y,4,1,1,1,0,0,0,0,3,0,Y
+40,F,Black,3,19,8,"5'0""",Bus,,15,1,4.5,3,1,Dogs,7,Double Fudge Brownie,Purple,Neutral,3,0,12,2,0,0,1,2-Jan,2,0,Neutral
+41,F,Blonde,0,18,8-Jun,"5'2""",Walk/Car,,12,0,7,5,2,Dogs,8,None,Pink,Neutral,3,2,Alot,6,0,1,1,1,0,0,Y
+42,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
